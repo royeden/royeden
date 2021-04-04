@@ -6,6 +6,7 @@ I'm also a co-organizer @freeCodeCampBA and I'm also in our front-end/UI-UX chan
 
 My current Tech Stack is:
 - React (CRA, NextJS or Gatsby) Based Front-End
+- Vue 2 Front End as well
 - React Native
 - NodeJS or Express based Back-End
 - ES6+
