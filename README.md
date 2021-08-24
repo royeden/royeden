@@ -21,10 +21,15 @@ I'm also a co-organizer @freeCodeCampBA and I'm also in our front-end/UI-UX chan
 
 ## Interests:
 🎵️ I like to write and play music.
+
 📚️ I'm currently Studying a career related to Arts and Technology.
+
 🔭 I’m currently working on my personal portfolio and various personal projects.
+
 📫 You can find me in front-end/UI-UX channel in freeCodeCampBA's Slack and lurking in other communities. I'm always down to help others when I have some time to spare and I know how to (or trust my googling instincts & experience)!
+
 🤝️ I’m looking to collaborate on anything that's open source and JavaScript related, specially if it's related to React (the library that I most commonly use) or Vue. Feel free to hit me up for that or anything else that involves translations between English and Spanish 😁️ and I'll check if I have the time available to do that.
+
 🌱 I’m currently learning a bit more of Python, starting to use Typescript & JSDoc in my projects and focusing much more on learning about accessibility features and design. I'm also starting to experiment with machine learning.
 
 ---
@@ -47,8 +52,13 @@ Co-organizer de @freeCodeCampBA, siempre prestándole atención al canal de fron
 
 ## Interests:
 🎵️ Me gusta tocar y escribir música.
+
 📚️ Actualmente estudiando una carrera relacionada al arte y la tecnología.
+
 🔭 Trabajando en mi portfolio y en varios proyectos personales.
+
 📫 Me pueden encontrar en el canal de front-end/UI-UX del Slack de freeCodeCampBA y de vez en cuando apareciendo en otras comunidades. ¡Siempre con la disposición de ayudar a otrxs cuando tengo algo de tiempo de sobra y alguna idea de cómo dar una mano (o la confianza en mi instinto para googlear y mi experiencia personal)!
+
 🤝️ Buscando colaborar en cualquier cosa que sea open source y relacionada a JavaScript, especialmente si se relaciona con React (la librería que uso más seguido) o Vue. Siéntansé libres de entrar en contacto conmigo para eso o cualquier otra cosa relacionada a traducciones de inglés a español 😁️ y voy a buscar si tengo tiempo libre para colaborar en eso.
+
 🌱 Estoy aprendiendo un poco más de Python, empezando a usar Typescript y JSDoc en mis proyectos y enfocándome en aprender más sobre features de accesibilidad y diseño. También estoy empezando a experimentar con machine learning.
