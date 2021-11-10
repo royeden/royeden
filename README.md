@@ -23,6 +23,7 @@ I'm also a co-organizer @freeCodeCampBA and I'm also in our front-end/UI-UX chan
 - Some basic knowledge on accesible UX/UI & design.
 - Tailwind CSS and/or Styled Components for styling.
 - I tend to prefer a functional approach to programming, whenever possible.
+- I like to reverse engineer things or reimplement stuff in other languages or frameworks.
 
 ## Interests:
 🎵️ I like to write and play music.
@@ -36,6 +37,8 @@ I'm also a co-organizer @freeCodeCampBA and I'm also in our front-end/UI-UX chan
 🤝️ I’m looking to collaborate on anything that's open source and JavaScript related, specially if it's related to React (the library that I most commonly use) or Vue. Feel free to hit me up for that or anything else that involves translations between English and Spanish 😁️ and I'll check if I have the time available to do that.
 
 🌱 I’m currently learning a bit more of Python, starting to use Typescript & JSDoc in my projects and focusing much more on learning about accessibility features and design. I'm also starting to experiment with machine learning.
+
+🔍 I'm also playing a bit with some awesome C projects by [hundredrabbits](https://100r.co/site/home.html) like [Orca-c](https://100r.co/site/orca.html) or [Noton](https://git.sr.ht/~rabbits/noton).
 
 ---
 
@@ -54,6 +57,7 @@ Co-organizer de @freeCodeCampBA, siempre prestándole atención al canal de fron
 - Conocimientos básicos de UX/UI orientado a la accesibilidad y de diseño.
 - Tailwind CSS y/o Styled Components para manejar estilos.
 - Me interesa por lo general una aproximación funcional a la programación, siempre que sea posible.
+- Me gusta hacer ingeniería inversa o reimplementaciones de cosas en distintos lenguajes o frameworks.
 
 ## Interests:
 🎵️ Me gusta tocar y escribir música.
@@ -67,3 +71,5 @@ Co-organizer de @freeCodeCampBA, siempre prestándole atención al canal de fron
 🤝️ Buscando colaborar en cualquier cosa que sea open source y relacionada a JavaScript, especialmente si se relaciona con React (la librería que uso más seguido) o Vue. Siéntansé libres de entrar en contacto conmigo para eso o cualquier otra cosa relacionada a traducciones de inglés a español 😁️ y voy a buscar si tengo tiempo libre para colaborar en eso.
 
 🌱 Estoy aprendiendo un poco más de Python, empezando a usar Typescript y JSDoc en mis proyectos y enfocándome en aprender más sobre features de accesibilidad y diseño. También estoy empezando a experimentar con machine learning.
+
+🔍 Jugando un poco con los increíbles proyectos escritos en C de [hundredrabbits](https://100r.co/site/home.html) como [Orca-c](https://100r.co/site/orca.html) o [Noton](https://git.sr.ht/~rabbits/noton).
