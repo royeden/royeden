@@ -1,9 +1,35 @@
-### Hi there / Hola 👋
+# Hi there / Hola 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=royeden&count_private=true&theme=github_dark&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=royeden&count_private=true&layout=compact&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+## Stack:
+
+[![Typescript](https://img.shields.io/badge/Typescript-%23EEE.svg?style=for-the-badge&logo=typescript&labelColor=0f172a)](https://typescriptlang.org)
+[![Astro](https://img.shields.io/badge/Astro-%23EEE.svg?style=for-the-badge&logo=astro&labelColor=0f172a)](https://astro.build)
+[![NextJS](https://img.shields.io/badge/NextJS-%23EEE.svg?style=for-the-badge&logo=nextdotjs&labelColor=0f172a)](https://nextjs.org)
+[![React](https://img.shields.io/badge/React-%23EEE.svg?style=for-the-badge&logo=react&labelColor=0f172a)](https://reactjs.org)
+[![Vue](https://img.shields.io/badge/Vue-%23EEE.svg?style=for-the-badge&logo=vuedotjs&labelColor=0f172a)](https://vuejs.org)
+[![Svelte](https://img.shields.io/badge/Svelte-%23EEE.svg?style=for-the-badge&logo=svelte&labelColor=0f172a)](https://svelte.dev)
+[![SolidJS](https://img.shields.io/badge/Solid%20JS-%23EEE.svg?style=for-the-badge&logo=solid&labelColor=0f172a&logoColor=2c4f7c)](https://solidjs.com)
+[![Cypress](https://img.shields.io/badge/Cypress-%23EEE.svg?style=for-the-badge&logo=cypress&labelColor=0f172a)](https://cypress.io)
+[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%23EEE.svg?style=for-the-badge&logo=tailwindcss&labelColor=0f172a)](https://tailwindcss.com)
+[![Laravel](https://img.shields.io/badge/Laravel-%23EEE.svg?style=for-the-badge&logo=laravel&labelColor=0f172a)](https://laravel.com)
+
+
+## Not used in a while:
+
+[![Python](https://img.shields.io/badge/Python-%23EEE.svg?style=for-the-badge&logo=python&labelColor=0f172a)](https://www.python.org)
+[![Electron](https://img.shields.io/badge/Electron-%23EEE.svg?style=for-the-badge&logo=electron&labelColor=0f172a)](https://electronjs.org)
+[![Redux](https://img.shields.io/badge/Redux-%23EEE.svg?style=for-the-badge&logo=redux&labelColor=0f172a)](https://redux.js.org)
+[![React Native](https://img.shields.io/badge/React%20Native-%23EEE.svg?style=for-the-badge&logo=react&labelColor=0f172a)](https://reactnative.dev)
+[![Flask](https://img.shields.io/badge/Flask-%23EEE.svg?style=for-the-badge&logo=flask&labelColor=0f172a&logoColor=white)](https://flask.palletsprojects.com)
+[![GRAPHQL](https://img.shields.io/badge/GRAPHQL-%23EEE.svg?style=for-the-badge&logo=graphql&labelColor=0f172a&logoColor=E10098)](https://graphql.org/)
+[![GatsbyJS](https://img.shields.io/badge/GatsbyJS-%23EEE.svg?style=for-the-badge&logo=gatsby&labelColor=0f172a)](https://www.gatsbyjs.com/)
+[![Fastlane](https://img.shields.io/badge/Fastlane-%23EEE.svg?style=for-the-badge&logo=fastlane&labelColor=0f172a)](https://fastlane.tools/)
+[![Bitrise](https://img.shields.io/badge/Bitrise-%23EEE.svg?style=for-the-badge&logo=bitrise&labelColor=0f172a)](https://bitrise.io/)
+[![Figma](https://img.shields.io/badge/Figma-%23EEE.svg?style=for-the-badge&logo=figma&labelColor=0f172a)](https://figma.com/)
 
 [English](#english) / [Español](#español)
 
