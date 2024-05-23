@@ -1,8 +1,12 @@
-# Hi there / Hola 👋
+# Hello! / ¡Hola! 👋 ([Portfolio](https://roy-eden.vercel.app))
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=royeden&count_private=true&theme=github_dark&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=royeden&count_private=true&layout=compact&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+| Nav                                                        |
+| ---------------------------------------------------------- |
+| [Stack](#stack)                                            |
+| [Other / Otras](#other--otras)                             |
+| [English](#english)                                        |
+| [Español](#español)                                        |
+| [Stats / Estadísticas](#stats--estadísticas)               |
 
 ## Stack:
 
@@ -18,7 +22,7 @@
 [![Laravel](https://img.shields.io/badge/Laravel-%23EEE.svg?style=for-the-badge&logo=laravel&labelColor=0f172a)](https://laravel.com)
 
 
-## Not used in a while:
+## Other / Otras:
 
 [![Python](https://img.shields.io/badge/Python-%23EEE.svg?style=for-the-badge&logo=python&labelColor=0f172a)](https://www.python.org)
 [![Electron](https://img.shields.io/badge/Electron-%23EEE.svg?style=for-the-badge&logo=electron&labelColor=0f172a)](https://electronjs.org)
@@ -31,71 +35,50 @@
 [![Bitrise](https://img.shields.io/badge/Bitrise-%23EEE.svg?style=for-the-badge&logo=bitrise&labelColor=0f172a)](https://bitrise.io/)
 [![Figma](https://img.shields.io/badge/Figma-%23EEE.svg?style=for-the-badge&logo=figma&labelColor=0f172a)](https://figma.com/)
 
-[English](#english) / [Español](#español)
-
 # English
 
-I'm primarily a **JavaScript Front-End developer** and a musician. I'm currently dabbing in some other languages and tech that interest me.
-I'm always trying to learn how stuff works and to use it in creative ways and I also love sharing the knowledge that I've acquired with others.
-I'm also a co-organizer @freeCodeCampBA and I'm also in our front-end/UI-UX channel in Slack whenever I can to help people out.
+## Bio
+I started my coding journey in 2016 and haven’t stopped ever since! Nowadays I’m a Fullstack Developer and an Electronic Arts student. I also like reading and composing music in my free time.
 
-## Current position: Fullstack Developer.
+I specialize in Frontend technologies, with a focus on design, accessibility, user experience, developer experience and website performance.
 
-## Current Tech Stack is:
-- JavaScript (ES2021, for front-end, back-end & scripting), a bit of Python 3 (data processing, machine learning basics & scripting), a bit of PHP (laravel back-end), a bit of Java ([Processing](processing.org)) and a bit of pure data (for music).
-- React (CRA, NextJS or Gatsby) or Vue 2 for web based front-end.
-- React Native for mobile front-end.
-- NodeJS (Express) or PHP (Laravel) for back-end.
-- Some basic knowledge on accesible UX/UI & design.
-- Tailwind CSS and/or Styled Components for styling.
-- I tend to prefer a functional approach to programming, whenever possible.
-- I like to reverse engineer things or reimplement stuff in other languages or frameworks.
+I think that programming is and should always be fun, that’s why I’m always working on some experimental projects or tools (this is what got me started on my Fullstack journey), collaborating with programming on artistic projects or teaching other people how to code.
+
+**I value how collaboration brings us closer to other people**: getting to know their perspective, finding solutions to shared problems or simply creating interesting things together. This is also the reason I love open source projects and why I try to contribute to them whenever it’s possible, be it docs, bugfixes (big or small), ideas or discussions.
+
+**My motto is: I like to _understand_ how something _works_, and find _interesting uses_ for it.**
 
 ## Interests:
 🎵️ I like to write and play music.
-
 📚️ I'm currently Studying a career related to Arts and Technology.
-
-🔭 I’m currently working on my personal portfolio and various personal projects.
-
-📫 You can find me in front-end/UI-UX channel in freeCodeCampBA's Slack and lurking in other communities. I'm always down to help others when I have some time to spare and I know how to (or trust my googling instincts & experience)!
-
-🤝️ I’m looking to collaborate on anything that's open source and JavaScript related, specially if it's related to React (the library that I most commonly use) or Vue. Feel free to hit me up for that or anything else that involves translations between English and Spanish 😁️ and I'll check if I have the time available to do that.
-
-🌱 I’m currently learning a bit more of Python, starting to use Typescript & JSDoc in my projects and focusing much more on learning about accessibility features and design. I'm also starting to experiment with machine learning.
-
-🔍 I'm also playing a bit with some awesome C projects by [hundredrabbits](https://100r.co/site/home.html) like [Orca-c](https://100r.co/site/orca.html) or [Noton](https://git.sr.ht/~rabbits/noton).
+🤝️ I’m looking to collaborate on anything that's open source and JavaScript / Typescript related. Feel free to hit me up for that or anything else that involves translations between English and Spanish 😁️ and I'll check if I have the time available to do that.
+🌱 I’m currently an assistan teacher for web development in my university and building various projects related to computer vision and music.
 
 ---
 
 # Español
-Me dedico principalmente a **desarrollo front-end con JavaScript** y a la música. Ando también programando con otros lenguajes de programación y tecnologías que me interesan.
-Siempre trato de entender cómo funcionan las cosas de fondo para usarlas después de alguna forma creativa y compartiendo mis aprendizajes con otrxs.
-Co-organizer de @freeCodeCampBA, siempre prestándole atención al canal de front-end/UI-UX en Slack para cuando alguien necesite una mano.
 
-## Trabajo actual: Fullstack Developer.
+## Bio
+Empecé mi carrera en programación en 2016 y desde ese momento no dejo de encontrar cosas nuevas para hacer. Actualmente estoy haciendo desarrollo Full Stack y estudiando Artes. Me gusta leer y componer música en mi tiempo libre.
 
-## Stack tecnológico actual:
-- JavaScript (ES2021, para front-end, back-end y scripting), un poco de Python 3 (procesamiento de datos, cosas básicas de machine learning y scripting), un poco de PHP (para back-end con laravel), un poco de Java ([Processing](processing.org)) y un poco de pure data (para hacer música).
-- React (CRA, NextJS o Gatsby) o Vue 2 para desarrollo front-end web.
-- React Native para front-end mobile.
-- NodeJS (Express) o PHP (Laravel) para back-end.
-- Conocimientos básicos de UX/UI orientado a la accesibilidad y de diseño.
-- Tailwind CSS y/o Styled Components para manejar estilos.
-- Me interesa por lo general una aproximación funcional a la programación, siempre que sea posible.
-- Me gusta hacer ingeniería inversa o reimplementaciones de cosas en distintos lenguajes o frameworks.
+Me especializo en tecnologías Front-end, con enfoque en diseño, accesibilidad, usabilidad, experiencia de desarrollo y performance de sitios web.
 
-## Interests:
-🎵️ Me gusta tocar y escribir música.
+Creo que la experiencia de programar siempre debe ser divertida, por eso ocupo mi tiempo en proyectos o herramientas experimentales (lo cuál me impulsa en el día a día a hacer más desarrollo Full-stack), colaborando con la programación de proyectos artísticos o enseñándole a otras personas a programar.
 
-📚️ Actualmente estudiando una carrera relacionada al arte y la tecnología.
+**Valoro como la colaboración nos acerca a otras personas**: nos da a entender su perspectiva, nos ayuda a encontrar soluciones a problemas comunes o a generar cosas interesantes en conjunto. por esto mismo me encantan los proyectos de open source y trato de hacer contribuciones cuando me es posible, ya sea colaborando con documentación, arreglando bugs (pequeños o grandes), aportando ideas o participando de discusiones.
 
-🔭 Trabajando en mi portfolio y en varios proyectos personales.
+**Mi máxima es: me gusta _entender_ cómo _funcionan_ las cosas y encontrar _usos interesantes_ para las mismas.**
 
-📫 Me pueden encontrar en el canal de front-end/UI-UX del Slack de freeCodeCampBA y de vez en cuando apareciendo en otras comunidades. ¡Siempre con la disposición de ayudar a otrxs cuando tengo algo de tiempo de sobra y alguna idea de cómo dar una mano (o la confianza en mi instinto para googlear y mi experiencia personal)!
+## Intereses:
+🎵️ Me gusta componer y tocar música.
+📚️ Estoy estudiando una carrera relacionada a las artes y la tecnología.
+🤝️ Busco activamente colaborar con cualquier proyecto que sea de código abierto, preferentemente hecho en Javascript o Typescript. También estoy disponible para hacer traducciones de inglés a español (siempre y cuando disponga del tiempo).
+🌱 Actualmente me dedico a una ayudantía docente de desarrollo web en mi universidad y me encuentro desarrollando varios proyectos que entrelazan la visión por computadora y la música.
 
-🤝️ Buscando colaborar en cualquier cosa que sea open source y relacionada a JavaScript, especialmente si se relaciona con React (la librería que uso más seguido) o Vue. Siéntansé libres de entrar en contacto conmigo para eso o cualquier otra cosa relacionada a traducciones de inglés a español 😁️ y voy a buscar si tengo tiempo libre para colaborar en eso.
 
-🌱 Estoy aprendiendo un poco más de Python, empezando a usar Typescript y JSDoc en mis proyectos y enfocándome en aprender más sobre features de accesibilidad y diseño. También estoy empezando a experimentar con machine learning.
+# Stats / Estadísticas
 
-🔍 Jugando un poco con los increíbles proyectos escritos en C de [hundredrabbits](https://100r.co/site/home.html) como [Orca-c](https://100r.co/site/orca.html) o [Noton](https://git.sr.ht/~rabbits/noton).
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=royeden&count_private=true&theme=github_dark&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=royeden&count_private=true&layout=compact&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
